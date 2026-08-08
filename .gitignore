@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+research_papers/
+*.log
+bm25_*.json
+test_bm25.json
+.pytest_cache/
